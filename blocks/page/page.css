@@ -1,8 +1,14 @@
 .page {
+  /* background-image: url("../../images/background-main.jpg"); */
+  background: url("../../images/background-main.jpg") center;
   background-color: #2A2C2F;
   color: white;
   margin: 0 auto;
-  padding: 28px 0 24px;
+  /* padding: 28px 0 24px; */
+  min-height: 100vh;
+  height: 100%;
+  /* display: flex; */
+  /* justify-content: space-between; */
   font-family: 'Inter', Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;

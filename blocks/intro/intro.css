@@ -2,7 +2,7 @@
   margin: 0 auto;
   max-width: 985px;
   box-sizing: border-box;
-  padding: 92px 0;
+  /* padding: 92px 0; */
 }
 
 @media screen and (max-width: 1200px) {
@@ -14,7 +14,7 @@
 @media screen and (max-width: 900px) {
   .intro {
     width: calc(100% - 48px);
-    padding: 88px 0;
+    /* padding: 88px 0; */
   }
 }
 
