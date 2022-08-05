@@ -22,3 +22,15 @@
     line-height: 1.1;
   }
 }
+
+@media screen and (max-height: 650px) {
+  .lead__title {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-height: 540px) {
+  .lead__title {
+    margin-top: 30px;
+  }
+}
